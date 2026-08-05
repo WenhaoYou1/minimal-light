@@ -1,22 +1,30 @@
 main:
+  - title: valuating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models
+    authors: Fujiao Ji, Kiho Lee, Hyungjoon Koo, <strong>Wenhao You</strong>, Euijin Choo, Hyoungshick Kim, Doowon Kim
+    conference_short: USENIX Security
+    conference: 34th USENIX Security Symposium (USENIX Security 25)
+    pdf: https://www.usenix.org/system/files/usenixsecurity25-ji.pdf
+    code: https://github.com/Fujiaoji/PhishingEval
+    page: https://moa-lab.net/evaluation-visual-similarity-based-phishing-detection-models/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wRM3eZZjld8J:scholar.google.com/&output=citation&scisdr=CsnAmr5fEM6B1r18Jpg:AM1tuoMAAAAAanJ6Ppitlq9wRh__TCEXzlfYiEo&scisig=AM1tuoMAAAAAanJ6PuVide-j4K70bsg63uYN8ow&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/usenix-security-25.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Music Audio-Visual Question Answering Requires Specialized Multimodal Designs
+    authors: <strong>Wenhao You</strong>, Xingjian Diao, Wenjun Huang, Chunhui Zhang, Keyi Kong, Weiyi Wu, Chiyu Ma, Zhongyu Ouyang, Tingxuan Wu, Ming Cheng, Soroush Vosoughi, Jiang Gui
+    conference_short: ACL
+    conference: Findings of the Association for Computational Linguistics, 2026
+    pdf: https://aclanthology.org/2026.findings-acl.69.pdf
+    code: https://github.com/WenhaoYou1/Survey4MusicAVQA
+    page: https://aclanthology.org/2026.findings-acl.69/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:N3oF3Mzu1hEJ:scholar.google.com/&output=citation&scisdr=CsnAmr5fEM6B1r19Ra8:AM1tuoMAAAAAanJ7Xa8XMtZP8afLFIZmLR6MTEM&scisig=AM1tuoMAAAAAanJ7XerkvC9KiTUl7zzQB2n4by0&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/acl-2026.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  # - title:
+  #   authors:
+  #   conference_short:
+  #   conference:
+  #   code:
+  #   page:
+  #   bibtex:
+  #   notes:
+  #   image:
