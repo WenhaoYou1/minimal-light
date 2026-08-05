@@ -1,5 +1,5 @@
 main:
-  - title: valuating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models
+  - title: Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models
     authors: Fujiao Ji, Kiho Lee, Hyungjoon Koo, <strong>Wenhao You</strong>, Euijin Choo, Hyoungshick Kim, Doowon Kim
     conference_short: USENIX Security
     conference: 34th USENIX Security Symposium (USENIX Security 25)
